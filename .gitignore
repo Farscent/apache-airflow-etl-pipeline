@@ -1,0 +1,13 @@
+.venv/
+.airflow/
+__pycache__/
+*.py[cod]
+.env
+*.db
+*.db-*
+logs/
+data/raw/*
+!data/raw/.gitkeep
+data/staging/
+data/output/
+.DS_Store
