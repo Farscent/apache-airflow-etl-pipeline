@@ -1,6 +1,6 @@
 ﻿# Toll Data ETL Pipeline with Apache Airflow
 
-A university data engineering project that reads toll-road records from three file formats, combines them, checks for errors, and saves them in a SQLite database for SQL analysis.
+A data engineering project that reads toll-road records from three file formats, combines them, checks for errors, and saves them in a SQLite database for SQL analysis.
 
 I built this project to practise data engineering skills and prepare for a data internship. It started from an IBM Skills Network course lab and was extended with data checks, database loading, automated tests, and a way to run the processing without Airflow.
 
